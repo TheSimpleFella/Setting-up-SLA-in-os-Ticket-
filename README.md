@@ -65,4 +65,4 @@ Link: https://github.com/TheSimpleFella/osticket-installation.git
 <img src="https://user-images.githubusercontent.com/126700220/226138817-6a35b4ec-c06b-4796-99df-50c9739ad587.png" height="80%" width="80%" alt="Step 1"/>
 </p>
 
-Remember to follow me for more content updates.
+<h2>Remember to follow me for more content updates.</h2>
